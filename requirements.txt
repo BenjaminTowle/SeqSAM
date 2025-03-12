@@ -1,0 +1,13 @@
+datasets
+matplotlib
+medpy
+monai
+numpy==1.23.4
+opencv-python
+pillow
+pydicom
+transformers
+gdown
+torch==2.2.1
+accelerate
+nibabel
